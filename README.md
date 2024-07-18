@@ -1,0 +1,3 @@
+# Destilación de Conocimiento de LLMs para Despliegue Eficiente de Soluciones IA
+
+Este proyecto se centra en la detección de entidades de interés general en textos de  Wikipedia mediante el uso de las capacidades zero-shot de grandes modelos de lenguaje (LLMs). La destilación de conocimiento de estos modelos permite sustituir la fase de anotación manual, facilitando el entrenamiento de una solución costo-eficiente y su despliegue en un entorno privado.
